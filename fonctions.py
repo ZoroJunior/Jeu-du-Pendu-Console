@@ -77,6 +77,6 @@ def gest_Avancement(liste) :
 
 # liste[0] = mot caché
 # liste[1] = mot à trouver
-# liste[2] = nombre de coup
+# liste[2] = score
 # liste[3] = nombre de coup
 
